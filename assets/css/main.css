@@ -32,4 +32,5 @@ pre {
 
 .refs {
     word-wrap: normal;
+    white-space: pre;
 }
