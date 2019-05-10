@@ -29,3 +29,7 @@ pre {
     white-space: pre-wrap;
     display: block;
 }
+
+.refs {
+    word-wrap: normal;
+}
